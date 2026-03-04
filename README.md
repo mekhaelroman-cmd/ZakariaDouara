@@ -14,5 +14,5 @@
 - ### Languages and Tools:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,github" />
-![](https://komarev.com/ghpvc/?username=zakariadouara)
+
 
